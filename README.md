@@ -1,6 +1,7 @@
 Hey, I'm Megan Zehrt, Welcome to my GitHub!
 
-![image for my read me]([http://url/to/img.png](https://i.pinimg.com/236x/45/a5/73/45a57324421e7857549225d2442a3ab5.jpg))
+![image for my read me](https://th.bing.com/th/id/OIG.sb_LbaAufYBbTH2mjRpb?w=270&h=270&c=6&r=0&o=5&pid=ImgGn)
+
 
 <!---
 Megan-Zehrt/Megan-Zehrt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
