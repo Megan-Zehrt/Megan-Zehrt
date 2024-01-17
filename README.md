@@ -1,6 +1,6 @@
 Welcome to my GitHub!
 
-![image for my read me](b96cdb05763fc243f8e636fdc916ece2.jpg)
+![image for my read me](https://github.com/Megan-Zehrt/BookClub/issues/1#issue-2086921602)
 
 
 <!---
