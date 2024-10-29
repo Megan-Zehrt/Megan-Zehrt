@@ -1,7 +1,5 @@
 Welcome to my GitHub!
 
-![image for my read me](https://github.com/Megan-Zehrt/BookClub/blob/main/b96cdb05763fc243f8e636fdc916ece2.jpg)
-
 
 <!---
 Megan-Zehrt/Megan-Zehrt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
